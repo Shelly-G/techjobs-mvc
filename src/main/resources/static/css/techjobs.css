@@ -27,3 +27,8 @@ table.job-listing td:last-child {
 label {
     margin-right: 15px;
 }
+.blank_row{
+     height:30px !important;
+     background-color:#FFFFFF;
+
+}
